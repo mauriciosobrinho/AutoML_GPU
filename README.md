@@ -1,2 +1,4 @@
 # AutoML_GPU
-Developed codes in the lab activitity along the course "Super aceleração de algoritmos usando GPUs de última geração" in the AutoML School. In this course were aborded the use of CUDA GPGPU Programming apply in machine learning problems
+Super aceleração de algoritmos usando GPUs de última geração - CEPID-CEMEAI-USP
+
+Curso prático de elaboração de algoritmos acelerados para GPUs com arquitetura Pascal – será utilizada Titan XP com 3500 núcleos, porém a maioria das técnicas abordadas se aplicam a todas as classes de GPU da fabricante NVIDIA. Após introdução sobre análise do paralelismo de algoritmos, serão apresentados estudos de caso aplicados em matrizes esparsas, ressonância magnética e do processamento de grafos em escalas de milhões. Em alguns dos casos apresentados a chega próximo de 30 vezes, e as técnicas apresentadas, como definição e ajuste fino da grade (GRID) de recursos, escolha dos tipos adequados de memória e técnicas para o escalonador de processos (WARP), podem ser facilmente adaptadas a outros problemas, logo os alunos inscritos são encorajados a trazer seus próprios problemas de pesquisa para paralelização em nossa oficina.
